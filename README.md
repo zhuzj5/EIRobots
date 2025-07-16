@@ -30,7 +30,7 @@ We present the data for each experimental group here, and have additionally incl
 ![RESULTS OF TASK EXECUTION SUCCESS RATE](./pictures/Table_I_Results_of_Task_Execution_Success_Rate.png)
 #### EI Robot Performance Bar Chart
 ![performance of EI robots in six levels](./pictures/performance_of_EI_robots_in_six_levels.png)
-
+A bar chart with standard deviation error bands illustrating the task execution outcomes of EI robots. Light blue bars denote the One-Time Success Rate across varying levels.
 
 ### 2. COARD Framework Performance
 #### TABLE III: Ablation Studies on Prompt Design
@@ -39,7 +39,7 @@ We present the data for each experimental group here, and have additionally incl
 ![RESULTS OF ABLATION STUDIES ON PROMPT DESIGN](./pictures/Table_III_Results_of_Ablation_Studies_on_Prompt_Design.png)
 #### COARD Framework Performance Bar Chart
 ![performance of COARD framework](./pictures/performance_of_COARD.png)
-
+A bar chart with standard deviation error bands illustrating the task execution results of ablation studies on prompt design.
 
 ## APPENDIX
 ### 1. Commands L1–L6
