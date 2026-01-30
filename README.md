@@ -20,6 +20,15 @@ Please refer to the video at https://youtu.be/CMstlDTLkfU
 
 [![Delivery Task Demo](https://img.youtube.com/vi/CMstlDTLkfU/0.jpg)](https://youtu.be/CMstlDTLkfU)
 
+### 5. Error Case
+#### Error Case in Bin Packing
+Please refer to the video at https://youtu.be/3HG5XRE-fVg
+
+[![Error Case 1](https://img.youtube.com/vi/3HG5XRE-fVg/0.jpg)](https://youtu.be/3HG5XRE-fVg)
+#### Error Case in Delivery Task
+Please refer to the video at https://youtu.be/3HG5XRE-fVg
+
+[![Error Case 2](https://img.youtube.com/vi/OMFOfiNKtIg/0.jpg)](https://youtu.be/OMFOfiNKtIg)
 
 ## Supplementary Article Data
 
